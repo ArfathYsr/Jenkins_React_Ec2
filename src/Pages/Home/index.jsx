@@ -26,7 +26,7 @@ function Home() {
   return (
     <Layout>
       <h1 className="flex justify-center items-center text-xl font-medium w-auto h-full px-2 py-1 mb-6 rounded-lg shadow-md dark:text-white dark:bg-slate-900 dark:shadow-lg dark:shadow-gray-700 mt-4">
-        Exclusive Products && Testing Jenkins
+        Exclusive Products && Testing Jenkinsssss
       </h1>
       <input
         type="text"
